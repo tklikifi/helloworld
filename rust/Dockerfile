@@ -2,7 +2,7 @@
 # Example docker file for Rust projects.
 #
 
-FROM fnichol/rust:1.12.0
+FROM fnichol/rust
 MAINTAINER tkl@iki.fi
 
 # Setup source directory.
