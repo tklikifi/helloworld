@@ -2,7 +2,7 @@
 # Example docker file for Node.js projects.
 #
 
-FROM node:6
+FROM node
 MAINTAINER tkl@iki.fi
 
 # Setup source directory.
